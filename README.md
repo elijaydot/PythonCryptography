@@ -3,8 +3,8 @@
 This project, from [CIL Academy](cil.academy), is a simple Python script for decrypting messages using a basic encryption algorithm.
 It is a simple substitution cipher, based on the Caesar Cipher.
 
-Here is the [Rubric]("CIL_Academy\Python-Code-Challenge-1-M2W1.pdf") to the project.
-The solutions to the project can be found [here](../PythonCryptography/solutions.md)
+Here is the [Rubric]("") to the project.
+The solutions to the project can be found [here](https://github.com/elijaydot/PythonCryptography/blob/main/solutions.md)
 
 ## Features
 
